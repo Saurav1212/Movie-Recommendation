@@ -11,7 +11,7 @@ As the requirement is not to predict the ratings but recommend movies to the use
 
 ## Results
 
-The model trained using the complete rating history output performed better compared to the one using the single withheld output with 10x smaller loss values. Both models converged to the least validation error in the 28<sup>th</sup> epoch. More details in Results.XLSX.
+The model trained using the complete rating history output performed better compared to the one using the single withheld output with 10x smaller loss values. Both models converged to the least validation error in the 28<sup>th</sup> epoch. More details in Results.xlsx.
 
 | Output Format   | Train | Validation | Test  |
 |-----------------|-------|------------|-------|

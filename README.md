@@ -1,4 +1,4 @@
-# Movie-Recommendation
+# Movie Recommendation System
 A DNN for recommending movies based on the user's rating history. 
 
 ## Model
